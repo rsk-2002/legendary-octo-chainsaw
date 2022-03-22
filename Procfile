@@ -1,0 +1,1 @@
+web: gunicorn studybud_v2.wsgi
